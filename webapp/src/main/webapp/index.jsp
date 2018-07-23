@@ -24,6 +24,7 @@
 
     <h1>It's an environment made by developers</h1>
     <h2>Change #1</h2>
+    <h2>Change #2</h2>
 
     <!-- <div class="container">
         <div class="row">
