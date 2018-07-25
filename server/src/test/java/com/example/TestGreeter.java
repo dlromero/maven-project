@@ -14,6 +14,7 @@ public class TestGreeter {
 
   @Before
   public void setup() {
+    String test = new Bool(8);
     greeter = new Greeter();
   }
 
