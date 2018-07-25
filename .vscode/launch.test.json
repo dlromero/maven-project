@@ -1,0 +1,48 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "webapp",
+                "projectName": "webapp",
+                "workingDirectory": "c:\\Users\\s4945948\\Documents\\Dev\\pabloexplicacion\\maven-project\\webapp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "server",
+                "projectName": "server",
+                "workingDirectory": "c:\\Users\\s4945948\\Documents\\Dev\\pabloexplicacion\\maven-project\\server",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "webapp",
+                "projectName": "webapp",
+                "workingDirectory": "c:\\Users\\s4945948\\Documents\\Dev\\pabloexplicacion\\maven-project\\webapp",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "server",
+                "projectName": "server",
+                "workingDirectory": "c:\\Users\\s4945948\\Documents\\Dev\\pabloexplicacion\\maven-project\\server",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
