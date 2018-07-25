@@ -21,17 +21,10 @@
 </head>
 
 <body>
-
-    <h1>It's an environment made by developers</h1>
-    <h2>Change #1</h2>
-    <h2>Change #2</h2>
-
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>It's an environment made by developers</h1>
-                <h2>Change #1</h2>
-                <h2>version 1.1.5.3</h2>
+                <h1>Ley de morphy</h1>
             </div>
         </div>
     </div>
