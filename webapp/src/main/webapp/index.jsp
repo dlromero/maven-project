@@ -25,6 +25,9 @@
         <div class="row">
             <div class="col">
                 <h1>Ley de morphy</h1>
+                <h1>Ley de morphy 2</h1>
+                <h1>Ley de morphy 3</h1>
+                <h1>Ley de morphy 4</h1>
             </div>
         </div>
     </div>
